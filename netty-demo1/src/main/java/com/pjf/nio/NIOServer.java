@@ -1,4 +1,4 @@
-package com.pjf;
+package com.pjf.nio;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

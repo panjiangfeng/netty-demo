@@ -1,4 +1,4 @@
-package com.pjf;
+package com.pjf.io;
 
 import java.io.IOException;
 import java.net.Socket;

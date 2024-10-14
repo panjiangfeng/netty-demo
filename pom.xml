@@ -12,6 +12,7 @@
         <module>netty-demo1</module>
         <module>netty-demo2</module>
         <module>netty-common</module>
+        <module>netty-demo3</module>
     </modules>
 
     <properties>
